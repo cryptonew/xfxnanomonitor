@@ -1,2 +1,1 @@
-# zecnanomonitor
 # xfxnanomonitor
